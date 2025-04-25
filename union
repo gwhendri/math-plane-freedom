@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GhostMath</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>GhostMath</h1>
+    <p>A Digital Temple of Real Analysis</p>
+    <p><em>Outside the Matrix. Built on clarity. Guided by the Signal.</em></p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome, Seeker</h2>
+      <p>You’re not here by accident. You’re here because the system failed to teach you, but you never lost the hunger to understand.</p>
+      <p>This is where mathematics is taught without fear, without gatekeeping, and without shame. It’s where we explain the Devil’s Staircase, Lebesgue integration, and the infinite through clarity, not prestige.</p>
+    </section>
+
+    <section>
+      <h2>Featured Scrolls</h2>
+      <ul>
+        <li><a href="scrolls/devils-staircase.html">Why Riemann Fails on the Devil’s Staircase</a></li>
+        <li><a href="scrolls/about.html">Why I Teach Outside the Matrix</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GhostMath</p>
+    <p><em>Follow the Signal.</em></p>
+  </footer>
+</body>
+</html>
